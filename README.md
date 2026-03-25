@@ -231,3 +231,16 @@ Model Accuracy % =
 **Course:** Faculty of Engineering and Technology  
 **Institution:** Alliance School of Advanced Computing, Alliance University  
 **Purpose:** Academic project demonstrating BI dashboard development with ML integration
+
+--
+
+##Team (8)
+
+# Team Members
+
+| Name | Registration Number |
+|---|---|
+| Mohammed Ayaan Adil Ahmed | 2411021061286 |
+| Ibadul Azam | 2411021060840 |
+| N Siva Sruthi | 2411021060566 |
+| D Sai Shikhar Achari | 2411021060542 |
