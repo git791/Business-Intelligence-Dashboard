@@ -234,8 +234,6 @@ Model Accuracy % =
 
 --
 
-##Team (8)
-
 # Team Members
 
 | Name | Registration Number |
